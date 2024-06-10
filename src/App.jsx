@@ -381,7 +381,7 @@ const App = () => {
                 }}
                 onClick={() => {
                   setScore(score - 1);
-                  setWrong11(true);
+                  setWrong52(true);
                 }}
               >
                 {item.incorrect_answers[0]}
@@ -394,7 +394,7 @@ const App = () => {
                 }}
                 onClick={() => {
                   setScore(score - 1);
-                  setWrong11(true);
+                  setWrong53(true);
                 }}
               >
                 {item.incorrect_answers[1]}
