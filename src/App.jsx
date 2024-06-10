@@ -107,7 +107,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong01 && "red",
+                  backgroundColor: wrong01 && "#ce7373",
                   color: wrong01 && "white",
                 }}
                 onClick={() => {
@@ -120,7 +120,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong02 && "red",
+                  backgroundColor: wrong02 && "#ce7373",
                   color: wrong02 && "white",
                 }}
                 onClick={() => {
@@ -139,7 +139,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong03 && "red",
+                  backgroundColor: wrong03 && "#ce7373",
                   color: wrong03 && "white",
                 }}
                 onClick={() => {
@@ -163,7 +163,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong11 && "red",
+                  backgroundColor: wrong11 && "#ce7373",
                   color: wrong11 && "white",
                 }}
                 onClick={() => {
@@ -176,7 +176,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong12 && "red",
+                  backgroundColor: wrong12 && "#ce7373",
                   color: wrong12 && "white",
                 }}
                 onClick={() => {
@@ -189,7 +189,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong13 && "red",
+                  backgroundColor: wrong13 && "#ce7373",
                   color: wrong13 && "white",
                 }}
                 onClick={() => {
@@ -207,7 +207,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong21 && "red",
+                  backgroundColor: wrong21 && "#ce7373",
                   color: wrong21 && "white",
                 }}
                 onClick={() => {
@@ -220,7 +220,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong22 && "red",
+                  backgroundColor: wrong22 && "#ce7373",
                   color: wrong22 && "white",
                 }}
                 onClick={() => {
@@ -233,7 +233,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong23 && "red",
+                  backgroundColor: wrong23 && "#ce7373",
                   color: wrong23 && "white",
                 }}
                 onClick={() => {
@@ -257,7 +257,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong31 && "red",
+                  backgroundColor: wrong31 && "#ce7373",
                   color: wrong31 && "white",
                 }}
                 onClick={() => {
@@ -276,7 +276,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong32 && "red",
+                  backgroundColor: wrong32 && "#ce7373",
                   color: wrong32 && "white",
                 }}
                 onClick={() => {
@@ -289,7 +289,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong33 && "red",
+                  backgroundColor: wrong33 && "#ce7373",
                   color: wrong33 && "white",
                 }}
                 onClick={() => {
@@ -307,7 +307,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong41 && "red",
+                  backgroundColor: wrong41 && "#ce7373",
                   color: wrong41 && "white",
                 }}
                 onClick={() => {
@@ -320,7 +320,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong42 && "red",
+                  backgroundColor: wrong42 && "#ce7373",
                   color: wrong42 && "white",
                 }}
                 onClick={() => {
@@ -333,7 +333,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong43 && "red",
+                  backgroundColor: wrong43 && "#ce7373",
                   color: wrong43 && "white",
                 }}
                 onClick={() => {
@@ -363,7 +363,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong51 && "red",
+                  backgroundColor: wrong51 && "#ce7373",
                   color: wrong51 && "white",
                 }}
                 onClick={() => {
@@ -376,7 +376,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong52 && "red",
+                  backgroundColor: wrong52 && "#ce7373",
                   color: wrong52 && "white",
                 }}
                 onClick={() => {
@@ -389,7 +389,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong53 && "red",
+                  backgroundColor: wrong53 && "#ce7373",
                   color: wrong53 && "white",
                 }}
                 onClick={() => {
@@ -407,7 +407,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong61 && "red",
+                  backgroundColor: wrong61 && "#ce7373",
                   color: wrong61 && "white",
                 }}
                 onClick={() => {
@@ -426,7 +426,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong62 && "red",
+                  backgroundColor: wrong62 && "#ce7373",
                   color: wrong62 && "white",
                 }}
                 onClick={() => {
@@ -439,7 +439,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong63 && "red",
+                  backgroundColor: wrong63 && "#ce7373",
                   color: wrong63 && "white",
                 }}
                 onClick={() => {
@@ -457,7 +457,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong71 && "red",
+                  backgroundColor: wrong71 && "#ce7373",
                   color: wrong71 && "white",
                 }}
                 onClick={() => {
@@ -470,7 +470,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong72 && "red",
+                  backgroundColor: wrong72 && "#ce7373",
                   color: wrong72 && "white",
                 }}
                 onClick={() => {
@@ -483,7 +483,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong73 && "red",
+                  backgroundColor: wrong73 && "#ce7373",
                   color: wrong73 && "white",
                 }}
                 onClick={() => {
@@ -507,7 +507,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong81 && "red",
+                  backgroundColor: wrong81 && "#ce7373",
                   color: wrong81 && "white",
                 }}
                 onClick={() => {
@@ -520,7 +520,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong82 && "red",
+                  backgroundColor: wrong82 && "#ce7373",
                   color: wrong82 && "white",
                 }}
                 onClick={() => {
@@ -539,7 +539,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong83 && "red",
+                  backgroundColor: wrong83 && "#ce7373",
                   color: wrong83 && "white",
                 }}
                 onClick={() => {
@@ -557,7 +557,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong91 && "red",
+                  backgroundColor: wrong91 && "#ce7373",
                   color: wrong91 && "white",
                 }}
                 onClick={() => {
@@ -570,7 +570,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong92 && "red",
+                  backgroundColor: wrong92 && "#ce7373",
                   color: wrong92 && "white",
                 }}
                 onClick={() => {
@@ -583,7 +583,7 @@ const App = () => {
               <p
                 className="options"
                 style={{
-                  backgroundColor: wrong93 && "red",
+                  backgroundColor: wrong93 && "#ce7373",
                   color: wrong93 && "white",
                 }}
                 onClick={() => {
